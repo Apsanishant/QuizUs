@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1052152848483",
+    "project_id": "game-63386",
+    "storage_bucket": "game-63386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052152848483:android:02858c3927390684681856",
+        "android_client_info": {
+          "package_name": "com.example.quizme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052152848483-st0lvk49knkmdhm4klc4v9asjatmlhvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBrKcYLdRQYmY1GRStOEzJtqtZEWxnn7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052152848483-st0lvk49knkmdhm4klc4v9asjatmlhvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052152848483:android:aef4ed63454ee4d2681856",
+        "android_client_info": {
+          "package_name": "sharma.gq.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052152848483-st0lvk49knkmdhm4klc4v9asjatmlhvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBrKcYLdRQYmY1GRStOEzJtqtZEWxnn7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052152848483-st0lvk49knkmdhm4klc4v9asjatmlhvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
